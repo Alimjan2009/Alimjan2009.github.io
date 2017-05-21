@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>一些学习记录</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-21T07:13:46.000Z</updated>
+  <updated>2017-05-21T07:41:31.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Alimjan</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first commit</title>
+    <link href="http://yoursite.com/2017/05/21/first-commit/"/>
+    <id>http://yoursite.com/2017/05/21/first-commit/</id>
+    <published>2017-05-21T07:41:31.000Z</published>
+    <updated>2017-05-21T07:41:31.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
